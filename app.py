@@ -51,7 +51,7 @@ def email(mail,mail_list,date_time,z):
 </body>
 </html>'''.format(**locals())
     #The mail addresses and password
-    sender_address = 'infysoars@gmail.com'
+    sender_address = 'infysoars0@gmail.com'
     sender_pass = '9423591139'
     receiver_address = mail
     #Setup the MIME
